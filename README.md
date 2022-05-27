@@ -1,2 +1,2 @@
 # dank.auto-clicker
- Simple Auto-clicker
+ Simple Auto-Clicker
